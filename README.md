@@ -4,9 +4,7 @@ Citrix Receiver seems to disable "Show Windows contents while dragging", every t
 
 This is a tiny application that simply re-enables the setting, but unlike updating the corresponding registry value, it takes effect immediately.
 
-Repo also includes template to import in Task Scheduler, for running the application periodically.
-
-Compiled executable under /bin.
+Repo also includes template to import in Task Scheduler, for running the application periodically. Compiled executable under /bin.
 
 ## Credits
 
