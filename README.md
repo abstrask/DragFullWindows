@@ -8,4 +8,5 @@ Repo also includes template to import in Task Scheduler, for running the applica
 
 ## Credits
 
-Based on https://gist.github.com/neokril/8035995.
+* https://stackoverflow.com/a/1115124/1256551
+* https://gist.github.com/neokril/8035995.
